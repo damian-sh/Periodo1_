@@ -1,0 +1,47 @@
+[
+    {
+        "tipo": "pregrado",
+        "carnet": "EP001",
+        "nombre": "Ana Molina",
+        "rol": "Estudiante de pregrado",
+        "notas": [
+            8,
+            9,
+            7.5
+        ]
+    },
+    {
+        "tipo": "pregrado",
+        "carnet": "EP002",
+        "nombre": "Luis Ramírez",
+        "rol": "Estudiante de pregrado",
+        "notas": [
+            6.5,
+            7,
+            8
+        ]
+    },
+    {
+        "tipo": "posgrado",
+        "carnet": "PG010",
+        "nombre": "Carla Núñez",
+        "rol": "Estudiante de posgrado",
+        "notas": [
+            9,
+            8.5,
+            9.5
+        ]
+    },
+    {
+        "tipo": "docente",
+        "carnet": "DC100",
+        "nombre": "Mario Solórzano",
+        "rol": "Docente",
+        "notas": [
+            7,
+            9,
+            8.5,
+            6
+        ]
+    }
+]
